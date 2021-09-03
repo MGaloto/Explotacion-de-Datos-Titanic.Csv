@@ -1,4 +1,4 @@
-# Explotacion de Datos Titanic.Csv
+# Explotacion de Datos 2
 
 Análisis en R del CSV Titanic
 
